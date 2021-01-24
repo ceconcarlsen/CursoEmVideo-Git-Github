@@ -21,4 +21,28 @@ _**Gabriel**_ __*Cecon*__
 
 [Acesse meu GitHub](https://github.com/ceconcarlsen)
 
+Número | Nome | Nota
+---|---|---|
+1 | Gabriel | 7.5
+2 | José | 10
 
+Não estou entendendo o comando `document.getElementById()` do JS
+
+Olha meu programa em C
+
+```
+main(){
+
+printf("Insira sua idade:");
+int x = scanf("%i",&x);
+
+if(x >= 18) printf("Maior de idade");
+else{
+print("Menor de idade");
+}
+
+} 
+```
+
+Emote
+:hand:
