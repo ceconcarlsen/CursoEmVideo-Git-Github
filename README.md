@@ -2,7 +2,7 @@
 ## Colocando em prática a linguagem MarkDown
 ## Curso em Vídeo
 ***
-**Gabriel** *Cecon* 
+_**Gabriel**_ __*Cecon*__ 
 
 **Lista numerada**
 1. Tomate
