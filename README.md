@@ -38,7 +38,7 @@ int x = scanf("%i",&x);
 
 if(x >= 18) printf("Maior de idade");
 else{
-print("Menor de idade");
+printf("Menor de idade");
 }
 
 } 
