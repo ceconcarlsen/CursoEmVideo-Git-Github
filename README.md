@@ -19,7 +19,6 @@ _**Gabriel**_ __*Cecon*__
 - [x] Criar a página secundária
 - [ ] Criar a loja virtual
 
-
-
+[Acesse meu GitHub](https://github.com/ceconcarlsen)
 
 
