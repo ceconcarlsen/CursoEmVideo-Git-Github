@@ -33,15 +33,8 @@ Olha meu programa em C
 ```
 main(){
 
-printf("Insira sua idade:");
-int x = scanf("%i",&x);
+printf("Oi");
 
-if(x >= 18) printf("Maior de idade");
-else{
-printf("Menor de idade");
-}
-
-} 
 ```
 
 Emote
