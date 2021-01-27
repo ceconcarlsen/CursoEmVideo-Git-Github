@@ -32,10 +32,17 @@ Olha meu programa em C
 
 ```
 main(){
+    
+ int x;
 
-printf("Oi");
+printf("Insira sua idade: ");
+scanf("%d",&x);
 
-}
+if(x>=18) printf("Maior de idade");
+
+else printf("\nMenor de idade");
+
+} 
 ```
 
 Emote
